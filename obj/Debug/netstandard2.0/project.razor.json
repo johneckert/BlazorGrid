@@ -19,8 +19,8 @@
   "RootNamespace": "BlazorGrid",
   "Documents": [
     {
-      "FilePath": "Component1.cshtml",
-      "TargetPath": "Component1.cshtml",
+      "FilePath": "content/BlazorGrid.cshtml",
+      "TargetPath": "content/BlazorGrid.cshtml",
       "FileKind": "mvc"
     }
   ],
